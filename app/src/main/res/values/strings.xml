@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PushApplication</string>
+    <string name="wait">Waiting...</string>
+    <string name="appListPage">应用列表</string>
+</resources>
