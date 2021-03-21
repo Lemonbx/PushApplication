@@ -2,7 +2,7 @@
 
 此仓库为Android部分
 
-PC仓库 <a href="https://github.com/Lemonbx/PushApplication">https://github.com/Lemonbx/PushApplication</a>
+PC仓库 <a href="https://github.com/Lemonbx/PushService">https://github.com/Lemonbx/PushService</a>
 
 <br>
 
